@@ -1,0 +1,6 @@
+GetDocumentIntent get me the {document} 
+GetDocumentIntent give me the {document}
+ReadDocumentIntent read me the content
+ReadDocumentIntent tell me whats in the document
+ReadDocumentIntent whats in the document
+ReadDocumentIntent whats the content of the document

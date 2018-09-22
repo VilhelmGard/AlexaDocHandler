@@ -1,0 +1,18 @@
+
+{
+  "intents": [
+    {
+      "intent": "GetDocumentIntent",
+      "slots": [
+        {
+          "name": "Document",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "ReadDocumentIntent",
+      "slots": []
+    }
+  ]
+}
